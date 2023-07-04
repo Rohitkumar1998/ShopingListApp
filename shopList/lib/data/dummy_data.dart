@@ -2,6 +2,7 @@ import 'package:shopList/models/groceryitem.dart';
 import 'package:shopList/models/categories.dart';
 import 'package:shopList/data/cataegory.dart';
 
+//
 final groceryItems = [
   GroceryItem(
       id: 'a',
